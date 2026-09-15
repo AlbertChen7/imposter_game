@@ -1,10 +1,10 @@
-# 🎭 Who Is Most Likely To... (Imposter Edition)
+# Who Is Most Likely To... (Imposter Edition)
 
 An online multiplayer social deduction party game inspired by **Gartic Phone** and **Jackbox Games**. Players join a room lobby from their browsers (phones, tablets, or computers), answer "Who is most likely to..." questions with one hidden imposter receiving a completely different prompt, deliberate on suspicious answers, and vote to uncover the imposter!
 
 ---
 
-## 🎮 How To Play
+## How To Play
 
 1. **Create or Join a Lobby**:
    - The host creates a room and gets a 4-letter Room Code (e.g. `ABCD`).
@@ -42,7 +42,7 @@ An online multiplayer social deduction party game inspired by **Gartic Phone** a
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Run Development Mode
 To start both backend (port `3001`) and frontend (port `5173`) concurrently:
