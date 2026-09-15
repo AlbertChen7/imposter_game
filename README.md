@@ -73,7 +73,7 @@ Then visit **`http://localhost:3001`**. The single Express server will serve bot
 
 ---
 
-## 🛠️ Tech Stack & Features
+## Tech Stack & Features
 
 - **Frontend**: React 18, Vite, TypeScript, Tailwind CSS, Lucide Icons, Canvas Confetti.
 - **Backend**: Node.js, Express, Socket.IO, TypeScript.
